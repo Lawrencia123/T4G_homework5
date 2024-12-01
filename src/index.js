@@ -1,0 +1,5 @@
+alert("Hello there")
+let friend = prompt("What is your best friend's name")
+let age = prompt("What's his/her age")
+let email = prompt("Can you tell us his/her email")
+alert(`${friend} is the name of my best friend. She is ${age} years old. Her email is ${email}.`)
